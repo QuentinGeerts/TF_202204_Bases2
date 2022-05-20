@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.exe
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.deps.json
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.runtimeconfig.json
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.dll
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ref\ExoPage148B.dll
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\bin\Debug\net5.0\ExoPage148B.pdb
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.AssemblyInfo.cs
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.dll
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ref\ExoPage148B.dll
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.pdb
+C:\_workspaces\C#\TF_202204_Fondements2\ExoPage148B\obj\Debug\net5.0\ExoPage148B.genruntimeconfig.cache

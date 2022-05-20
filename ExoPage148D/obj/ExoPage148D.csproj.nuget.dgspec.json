@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspace\\BStorm\\C#\\TF_202204_Fondements2\\ExoPage148D\\ExoPage148D.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspace\\BStorm\\C#\\TF_202204_Fondements2\\ExoPage148D\\ExoPage148D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\BStorm\\C#\\TF_202204_Fondements2\\ExoPage148D\\ExoPage148D.csproj",
+        "projectName": "ExoPage148D",
+        "projectPath": "D:\\Workspace\\BStorm\\C#\\TF_202204_Fondements2\\ExoPage148D\\ExoPage148D.csproj",
+        "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\BStorm\\C#\\TF_202204_Fondements2\\ExoPage148D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Quentin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExoPage148C_Bis/1.0.0": {
+        "runtime": {
+          "ExoPage148C_Bis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExoPage148C_Bis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.exe
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.deps.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.runtimeconfig.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.runtimeconfig.dev.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\bin\Debug\net5.0\demoStructures.pdb
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.csproj.AssemblyReference.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.AssemblyInfoInputs.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.AssemblyInfo.cs
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.csproj.CoreCompileInputs.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\refint\demoStructures.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.pdb
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\demoStructures.genruntimeconfig.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\demoStructures\obj\Debug\net5.0\ref\demoStructures.dll

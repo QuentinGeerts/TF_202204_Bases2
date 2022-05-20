@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.exe
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.deps.json
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.runtimeconfig.json
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.dll
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\ref\demoCollections.dll
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\bin\Debug\net5.0\demoCollections.pdb
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.AssemblyInfo.cs
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.dll
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\ref\demoCollections.dll
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.pdb
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.genruntimeconfig.cache
+C:\_workspaces\C#\TF_202204_Fondements2\demoCollections\obj\Debug\net5.0\demoCollections.csproj.AssemblyReference.cache

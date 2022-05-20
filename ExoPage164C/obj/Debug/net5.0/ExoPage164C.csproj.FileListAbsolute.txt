@@ -1,0 +1,16 @@
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.exe
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.deps.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.runtimeconfig.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.runtimeconfig.dev.json
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\bin\Debug\net5.0\ExoPage164C.pdb
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.csproj.AssemblyReference.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.AssemblyInfoInputs.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.AssemblyInfo.cs
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.csproj.CoreCompileInputs.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\refint\ExoPage164C.dll
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.pdb
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ExoPage164C.genruntimeconfig.cache
+D:\Workspace\BStorm\C#\TF_202204_Fondements2\ExoPage164C\obj\Debug\net5.0\ref\ExoPage164C.dll
